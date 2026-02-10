@@ -1,0 +1,12 @@
+2026-02-10 09:44:36 [INFO] : Preliminaries complete. Initiating ETL process
+2026-02-10 09:44:36 [INFO] : PostgreSQL connection created
+2026-02-10 09:44:36 [INFO] : Starting data extraction
+2026-02-10 09:44:38 [INFO] : Data extraction completed. Rows: 10800
+2026-02-10 09:44:38 [INFO] : Starting data transformation
+2026-02-10 09:44:38 [INFO] : Data transformation completed. Rows: 9994
+2026-02-10 09:44:38 [INFO] : Starting CSV load
+2026-02-10 09:44:38 [INFO] : CSV saved successfully
+2026-02-10 09:44:38 [INFO] : Starting database load into table 'sales_data'
+2026-02-10 09:44:40 [INFO] : Database load completed successfully
+2026-02-10 09:44:40 [INFO] : ETL process completed successfully
+2026-02-10 09:44:40 [INFO] : ETL process ended
